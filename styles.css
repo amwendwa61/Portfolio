@@ -1,3 +1,13 @@
+h1{
+  color:rgb(3, 70, 82);
+  text-align: center;
+}
 body{
-  background-image: url("https://unsplash.com/photos/terrace-chairs-overlooking-forested-valley-BhnNUDwWI2I")
+  background-color: rgb(226, 210, 197);
+}
+p{
+  color:#ad3e3e;
+}
+h2{
+  color:rgb(15, 83, 85)
 }
