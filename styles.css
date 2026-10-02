@@ -4,6 +4,9 @@ h1{
 }
 body{
   background-color: rgb(226, 210, 197);
+  background-image: url(images/IMG_20250318_134638_964.jpg);
+  background-size: 800px;
+  background-repeat: unset;
 }
 p{
   color:#ad3e3e;
