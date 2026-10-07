@@ -5,11 +5,12 @@ h1{
 body{
   background-color: rgb(226, 210, 197);
   background-image: url(images/IMG_20250318_134638_964.jpg);
-  background-size: 800px;
-  background-repeat: unset;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 p{
-  color:#ad3e3e;
+  color:#384172;
 }
 h2{
   color:rgb(15, 83, 85)
